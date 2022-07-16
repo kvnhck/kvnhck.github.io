@@ -1,3 +1,5 @@
 name: kvnhck.github.io
 markdown: redcarpet
 pygments: true
+
+theme: jekyll-theme-architect
