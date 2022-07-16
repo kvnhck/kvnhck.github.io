@@ -5,5 +5,42 @@ date:   2012-07-16 +0100
 categories: [jekyll]
 ---
 
-# BBQ 16 juli
+# BIER
 
+- Barbar
+- Cornet
+- Desperados
+- Gouden Carolus triple
+- Omer
+- Orval
+- Stella
+- Strongbow
+- Westmalle triple
+
+- Gouden Carolus whiskey infused
+- St Bernardus
+- Westmalle bruin
+
+# 0%
+
+- Affligem
+- Desperados
+- Mojito
+- Gin
+
+# Frisdrank
+
+- Cola / Cola zero
+- Fuze tea green
+- Ice tea
+- Minute maid multi
+- Oasis
+- Schweppes Agrum zero
+- Water
+
+# Wijn
+
+- Cava
+- Rose
+- Wit
+- Rood
