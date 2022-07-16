@@ -15,8 +15,6 @@ categories: [jekyll]
 - Schweppes Agrum zero
 - Water
 
----
-
 # BIER (blond)
 
 - Barbar
@@ -29,15 +27,11 @@ categories: [jekyll]
 - Strongbow
 - Westmalle triple
 
----
-
 # BIER (bruin)
 
 - Gouden Carolus whiskey infused
 - St Bernardus
 - Westmalle bruin
-
----
 
 # 0%
 
@@ -45,8 +39,6 @@ categories: [jekyll]
 - Desperados
 - Mojito
 - Gin
-
----
 
 # Wijn
 
