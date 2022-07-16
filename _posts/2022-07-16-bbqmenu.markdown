@@ -5,7 +5,19 @@ date:   2012-07-16 +0100
 categories: [jekyll]
 ---
 
-# BIER
+# Frisdrank
+
+- Cola / Cola zero
+- Fuze tea green
+- Ice tea
+- Minute maid multi
+- Oasis
+- Schweppes Agrum zero
+- Water
+
+---
+
+# BIER (blond)
 
 - Barbar
 - Cornet
@@ -17,9 +29,15 @@ categories: [jekyll]
 - Strongbow
 - Westmalle triple
 
+---
+
+# BIER (bruin)
+
 - Gouden Carolus whiskey infused
 - St Bernardus
 - Westmalle bruin
+
+---
 
 # 0%
 
@@ -28,15 +46,7 @@ categories: [jekyll]
 - Mojito
 - Gin
 
-# Frisdrank
-
-- Cola / Cola zero
-- Fuze tea green
-- Ice tea
-- Minute maid multi
-- Oasis
-- Schweppes Agrum zero
-- Water
+---
 
 # Wijn
 
